@@ -1,0 +1,13 @@
+.rodape {
+    padding-top:0;
+    padding-bottom: 20rem;
+    background:rgb(240, 121, 248);
+
+}
+#Copy {
+    display: block;
+    justify-content: center;
+    position: absolute;
+    right: 35rem;
+    bottom: -95rem;
+}

@@ -1,0 +1,29 @@
+.BackMain {
+    padding: 20em 0;
+    background:rgb(241, 212, 243);
+}
+
+#LogProg {
+    position: absolute;
+    right: 33rem;
+    bottom: 30rem;
+    font-size: 30px;
+
+}
+#Video {
+    position: absolute;
+    right: 30rem;
+    bottom: 8rem;
+}
+#ProgNec {
+    position: absolute;
+    right: 25rem;
+    bottom: -4rem;
+    font-size: 18px;
+}
+#listas{
+    margin: 10px;
+}
+#linksSize{
+    margin: 30px;
+}

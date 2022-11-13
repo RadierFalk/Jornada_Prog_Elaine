@@ -1,0 +1,27 @@
+header {
+    display: block;
+    background: linear-gradient(to right, rgb(238, 172, 243), rgb(241, 135, 248), rgb(211, 82, 243))!important;
+    background-size: 500% 100%;
+    animation-name: degrade;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+    padding: 60px 0;
+    
+}
+
+@keyframes degrade {
+    0% {
+        background-position-x: 0%;
+    }
+    100% {
+        background-position-x: 100%;
+    }
+}
+#topo {
+    color: blueviolet;
+    font-size: 22px;
+    position: absolute;
+    right: 20rem;
+    bottom: 38rem;
+}

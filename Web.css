@@ -1,0 +1,25 @@
+.BackMain3 {
+    padding-top:0;
+    padding-bottom: 40rem;
+    background:rgb(241, 212, 243);
+}
+#HTML {
+    position:absolute;
+    right: 46rem;
+    bottom: -45rem;
+    font-size: 30px;
+}
+#Video3 {
+    position:absolute;
+    right: 30rem;
+    bottom: -67rem;
+}
+#ProgNec3 {
+    position:absolute;
+    right: 40rem;
+    font-size: 18px;
+    bottom: -76rem;
+}
+#LinkSize2{
+    margin: 30px;
+}

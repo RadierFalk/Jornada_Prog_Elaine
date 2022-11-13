@@ -1,0 +1,26 @@
+.BackMain2 {
+    padding-top:0;
+    padding-bottom: 40rem;
+    background:rgb(241, 212, 243);
+
+}
+#JavaScript {
+    position:absolute;
+    right: 38rem;
+    bottom: -10rem;
+    font-size: 30px;
+}
+#Video2 {
+    position:absolute;
+    right: 30rem;
+    bottom: -32rem;
+}
+#ProgNec2 {
+    position:absolute;
+    right: 40rem;
+    font-size: 18px;
+    bottom: -40rem;
+}
+#LinkSize {
+    margin: 30px;
+}
